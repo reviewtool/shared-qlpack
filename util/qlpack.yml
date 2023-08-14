@@ -1,0 +1,6 @@
+name: review/util
+version: 0.1.3-dev
+groups: shared
+library: true
+dependencies:
+warnOnImplicitThis: true
