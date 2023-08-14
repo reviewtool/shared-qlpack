@@ -1,0 +1,5 @@
+name: review/yaml
+version: 0.1.3-dev
+groups: shared
+library: true
+warnOnImplicitThis: true
